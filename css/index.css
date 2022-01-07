@@ -28,11 +28,14 @@
     background-color: hsl(323, 85%, 54%);
 }
 
-h1 {
+h1{
     font-size: 50px;
     text-align: center;
     font-family:fantasy;
 
+}
+h2 {
+    text-align: center;
 }
 img {
     max-width: 100%;
@@ -41,5 +44,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 70%;
-
+}
+.ingredients {
+    font-size: 1.5em;
 }
